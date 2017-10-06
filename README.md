@@ -1,2 +1,3 @@
 # hello-world
-First project test in GitHub
+
+I'm IT Architect learning news technologies.
