@@ -6,25 +6,25 @@ I'm IT Architect learning news technologies.
 GIT Initial Commands:
 =======================
 
-**Configurando o git**
-## $ git config --global user.name "YOUR NAME"
-## $ git config --global user.email "YOUR EMAIL ADDRESS"
+## **Configurando o git**
+### $ git config --global user.name "YOUR NAME"
+### $ git config --global user.email "YOUR EMAIL ADDRESS"
 
 
 
-**Clone Projects**
+## **Clone Projects**
 ### git clone https://github.com/<username>/site.git
 
 Example: 
 ### git clone https://github.com/sziliotti/kaggle-titanic-ml-disaster.git
 
 Or
-(*)Add to Remote Repository
+## **Add to Remote Repository**
 ### git remote add origin git@github.com:sziliotti/kaggle-titanic-ml-disaster.git
 
 
 
-**Comandos iniciais do git**
+## **Comandos iniciais do git**
 Com o repositório na sua máquina, vamos aprender 4 comandos iniciais que farão parte da sua vida a partir de agora:
 
 -git add <arquivos...> Este comando adiciona o(s) arquivo(s) em um lugar que chamamos de INDEX, que funciona como uma área do git no qual os arquivos possam ser enviados ao Github. É importante saber que ADD não está adicionando um arquivo novo ao repositório, mas sim dizendo que o arquivo (sendo novo ou não) está sendo preparado para entrar na próxima revisão do repositório.
