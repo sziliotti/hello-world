@@ -3,24 +3,24 @@
 I'm IT Architect learning news technologies.
 
 
-GIT Initial Commands:
+# GIT Initial Commands:
 =======================
 
 ## **Configurando o git**
-### $ git config --global user.name "YOUR NAME"
-### $ git config --global user.email "YOUR EMAIL ADDRESS"
+``` $ git config --global user.name "YOUR NAME"
+``` $ git config --global user.email "YOUR EMAIL ADDRESS"
 
 
 
 ## **Clone Projects**
-### git clone https://github.com/<username>/site.git
+``` git clone https://github.com/<username>/site.git
 
 Example: 
-### git clone https://github.com/sziliotti/kaggle-titanic-ml-disaster.git
+``` git clone https://github.com/sziliotti/kaggle-titanic-ml-disaster.git
 
 Or
 ## **Add to Remote Repository**
-### git remote add origin git@github.com:sziliotti/kaggle-titanic-ml-disaster.git
+``` git remote add origin git@github.com:sziliotti/kaggle-titanic-ml-disaster.git
 
 
 
