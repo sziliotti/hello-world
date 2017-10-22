@@ -47,4 +47,6 @@ Mais comandos:
 
 (http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
+https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/
+
 
