@@ -45,7 +45,7 @@ Com o repositório na sua máquina, vamos aprender 4 comandos iniciais que farã
 
 Mais comandos:
 
-(http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
 
 https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/
 
