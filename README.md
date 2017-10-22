@@ -8,6 +8,7 @@ I'm IT Architect learning news technologies.
 
 ## **Configurando o git**
 ``` $ git config --global user.name "YOUR NAME" ```
+
 ``` $ git config --global user.email "YOUR EMAIL ADDRESS" ```
 
 
@@ -16,6 +17,7 @@ I'm IT Architect learning news technologies.
 ``` git clone https://github.com/<username>/site.git ```
 
 Example: 
+
 ``` git clone https://github.com/sziliotti/kaggle-titanic-ml-disaster.git ```
 
 Or
